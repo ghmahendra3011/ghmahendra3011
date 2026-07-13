@@ -13,4 +13,4 @@ evals, guardrails, and orchestration.
 **Interests:** agent architectures, retrieval quality, evals & observability,
 enterprise integration patterns.
 
-📍 Dallas, TX  •  📫 Mahendra3011@gmail.com  •  [LinkedIn](https://www.linkedin.com/in/mahendra3011
+📍 Dallas, TX  •  📫 Mahendra3011@gmail.com 
