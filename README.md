@@ -1,16 +1,16 @@
-## Hi there 👋
+### Mahendra Singh
+**AI Solutions Architect — agentic AI, RAG, enterprise integration**
 
-<!--
-**ghmahendra3011/ghmahendra3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Architect with 20 years in enterprise software, currently focused on production
+agentic AI systems. Shipped autonomous chat and voice agents at Fortune 500 scale on
+Salesforce Agentforce; now building the same patterns on AWS Bedrock — RAG pipelines,
+evals, guardrails, and orchestration.
 
-Here are some ideas to get you started:
+**Currently working on**
+- Enterprise support agent on Bedrock with pgvector retrieval and an eval harness
+- Market regime research agent combining LLM tool use with quantitative signals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** agent architectures, retrieval quality, evals & observability,
+enterprise integration patterns.
+
+📍 Dallas, TX  •  📫 Mahendra3011@gmail.com  •  [LinkedIn](https://www.linkedin.com/in/mahendra3011
